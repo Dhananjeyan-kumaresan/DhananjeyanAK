@@ -91,9 +91,3 @@
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/dhananjeyan-kumaresan/dhananjeyan-kumaresan/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
