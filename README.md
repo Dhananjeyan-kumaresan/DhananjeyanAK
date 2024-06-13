@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dhananjeyan-kumaresan/DhananjeyanAK/assets/125179740/f60161a1-3ebb-41b3-ade6-b4b1c28946e1" alt="Profile Banner" />
+  <img src="https://github.com/Dhananjeyan-kumaresan/DhananjeyanAK/assets/125179740/3de32d69-925e-4902-a070-745fc05db3a4" alt="Profile Banner" />
 </p>
 
 <p align="left" style="color:#00FFD1;">🔭 I’m currently working on <strong>Coca Cola Africa</strong></p>
