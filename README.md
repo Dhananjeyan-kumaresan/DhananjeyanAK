@@ -1,10 +1,8 @@
-<h1 align="center" style="color:#00FFD1;">Hi 👋, I'm Dhananjeyan Kumaresan</h1>
+<h1 align="center" style="color:#00FFD1">Hi 👋, I'm Dhananjeyan Kumaresan</h1>
 <h3 align="center" style="color:#00FFD1;">A Backend Turned Frontend Developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhananjeyan-kumaresan&theme=onedark" alt="dhananjeyan-kumaresan" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhananjeyan-kumaresan&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -82,12 +80,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:10px;"/> 
   </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" style="margin-right:10px;"/> 
-  </a>
-</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjeyan-kumaresan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjeyan-kumaresan&theme=radical" alt="GitHub Streak" style="margin: 20px;" />
-</div>
-
----
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender
