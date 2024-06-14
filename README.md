@@ -84,7 +84,7 @@
   </a>
       </p>      
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dhananjeyan-kumaresan/DhananjeyanAK/output/github-contribution-grid-snake.svg" />
   
